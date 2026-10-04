@@ -92,4 +92,4 @@ Example.Setting = value
 
 ## License
 
-Add a license file that matches how you want others to use this project.
+Released under [The Unlicense](LICENSE). You may use, copy, modify, distribute, and sell this software for any purpose without attribution or other restrictions.
